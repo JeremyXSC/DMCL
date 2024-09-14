@@ -19,7 +19,7 @@ Modify the data path of the code according to your dataset, then perform the fol
 ```
 bash trainer.sh
 ```
-'train_fold' represents the n fold Cross Validation.
+'train_fold' controls the n-fold Cross Validation.
  
 ## Contributing
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
