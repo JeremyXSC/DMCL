@@ -9,8 +9,12 @@ we propose a novel Deep Multimodal Collaborative Learning framework named DMCL f
 
 <img src='figs/DMCL.png'/>
 
-### News
+## News
 - Support Market1501, DukeMTMC-reID, CUHK03 and Colo-Pair datasets.
+### A small subset of Colo-Pair can be downloaded from the following links:<br>
+
+* SJTU Yun Drive: 
+	* [Download Link](https://pan.sjtu.edu.cn/web/share/17bd1f1a5683a639c28401746bd03437) password: upa6
 
 ## Installation
 
