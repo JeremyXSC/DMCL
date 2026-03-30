@@ -14,7 +14,9 @@ we propose a novel Deep Multimodal Collaborative Learning framework named DMCL f
 ### A small subset of Colo-Pair can be downloaded from the following links:<br>
 
 * SJTU Yun Drive: 
-	* [Download Link](https://pan.sjtu.edu.cn/web/share/17bd1f1a5683a639c28401746bd03437) password: upa6
+	* [Download Link](
+https://pan.sjtu.edu.cn/web/share/3515161e60b08e45501ad7f884d9e012) password: 
+sgt4
 
 ## Installation
 
